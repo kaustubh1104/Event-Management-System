@@ -6,7 +6,7 @@ A full-stack web application built as part of the **CS 457/CS 557 – Database S
 
 ## 👥 Team Members & Contributions
 
-| Name | Student ID | Role |
+| Name | Role |  
 |------|------------|------|
 | **Kaustubh Hemang Pandya** | Design and Database |
 | **Nikunjkumar Khandar** | Programming and Testing |
